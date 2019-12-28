@@ -1,0 +1,28 @@
+{
+    "get": [
+        {
+            "_id": "5e03f7a5c0ef9f2d880ce55c",
+            "nama_kursus": "Produk Fasionssssssss",
+            "durasi": "2",
+            "jumlah_murid": 3,
+            "jumlah_materi": 4,
+            "harga": 2000000,
+            "image": "1_ieVWcSsJmeBbZFo6a_dL5g.png",
+            "createdAt": "2019-12-25T23:58:29.454Z",
+            "updatedAt": "2019-12-25T23:58:29.454Z",
+            "__v": 0
+        },
+        {
+            "_id": "5e04330131277924c8000aed",
+            "nama_kursus": "Web Master",
+            "durasi": "2",
+            "jumlah_murid": 3,
+            "jumlah_materi": 4,
+            "harga": 2000000,
+            "image": "1_ieVWcSsJmeBbZFo6a_dL5g.png",
+            "createdAt": "2019-12-26T04:11:45.230Z",
+            "updatedAt": "2019-12-26T04:11:45.230Z",
+            "__v": 0
+        }
+    ]
+}
